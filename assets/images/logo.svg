@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg width="1000" height="1000" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" stroke-width="0px">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#ffffff" height="1000" id="svg_1" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" width="1000" x="0" y="0"/>
+  <circle cx="500" cy="500" fill="#000000" fill-opacity="null" id="svg_5" r="400" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0"/>
+  <circle cx="300" cy="700" fill="#ffffff" id="svg_4" r="300" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0"/>
+  <rect fill="#ffffff" height="10" id="svg_6" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0" width="500" x="500" y="850"/>
+  <rect fill="#ffffff" height="10" id="svg_7" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0" width="500" x="500" y="800"/>
+  <rect fill="#ffffff" height="10" id="svg_8" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0" width="500" x="500" y="750"/>
+  <rect fill="#ffffff" height="10" id="svg_9" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0" width="500" x="500" y="700"/>
+  <rect fill="#ffffff" height="10" id="svg_10" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0" width="500" x="500" y="650"/>
+  <rect fill="#ffffff" height="10" id="svg_11" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0" width="500" x="500" y="600"/>
+ </g>
+</svg>
